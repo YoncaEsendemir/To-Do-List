@@ -14,7 +14,6 @@ input.addEventListener('keyup',function(e){
 })
 
 
-
 function go(){
     if(input.value!=""){
         ++i
