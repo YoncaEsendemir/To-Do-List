@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#7895CB ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    border: none;
+   
+}
+button{
+    background-color: black;
+    height: 30px;
+    width: 50px;
+    outline: none;
+    cursor: pointer;
+    margin-top: 10px;
+    border-color:#e60808 ;
+    color:white;
+}
+
+.contentDiv{
+    width: 350px;
+    height: 420px;
+    background-color: white;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.inputDiv{
+
+align-items: center;
+}
+
+.deleteButton{
+height: 20px;
+width: 30px;
+font-size: 10px;
+color:white;
+background-color:#B31312 ;
+display: inline-block;
+margin-left:10px ;
+padding-left:5px;
+font-size: 20px;
+
+}
+
+.finishButton{
+    height: 20px;
+width: auto;
+font-size: 10px;
+color:white;
+background-color:#22A699 ;
+display: inline-block;
+margin-left:10px ;
+padding-left:5px;
+font-size: 20px;
+}
+
+.deneme{
+    text-decoration:line-through ;
+}
