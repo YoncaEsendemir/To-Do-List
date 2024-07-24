@@ -12,4 +12,4 @@ Yapılacak listesi : Görev eklenebilir yapıldığında silinebilir veya yapıl
 
 ## Ekran Görüntüleri
 
-![Ana Ekran]([images/ana-ekran.jpg](https://github.com/YoncaEsendemir/To-Do-List/blob/main/to-do-list.jpg))
+![Ana Ekran](https://github.com/YoncaEsendemir/To-Do-List/blob/main/to-do-list.jpg)
